@@ -38,3 +38,10 @@
  INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Initializing Servlet 'dispatcherServlet'
  INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Completed initialization in 4 ms
  INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - [User(id=3235, name=john, ssn=6474729899, phoneNumber=1234567890, age=30, username=johncn, password=john123, accountDetails=[AccountDetails(accountHolderName=JOHN CURRRAN, accountNumber=365027332671, accountType=SAVING), AccountDetails(accountHolderName=JOHN CURRRAN, accountNumber=365027332671, accountType=CURRENT)]), User(id=9546, name=Smith, ssn=4623642828, phoneNumber=5439854674, age=41, username=smithkn, password=smith619, accountDetails=[AccountDetails(accountHolderName=Smith ken, accountNumber=8272389200, accountType=SAVING)])]
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Could not detect default configuration classes for test class [com.example.PIIDemo.PiiDemoApplicationTests]: PiiDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Found @SpringBootConfiguration com.example.PIIDemo.PiiDemoApplication for test class com.example.PIIDemo.PiiDemoApplicationTests
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - HV000001: Hibernate Validator 8.0.0.Final
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Starting PiiDemoApplicationTests using Java 20.0.1 with PID 30888 (started by tupur in D:\Java\shreeRepo_git\PIIDemo)
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - No active profile set, falling back to 1 default profile: "default"
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Exposing 1 endpoint(s) beneath base path '/actuator'
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Started PiiDemoApplicationTests in 2.496 seconds (process running for 3.887)
