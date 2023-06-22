@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../user-record-creation/pom.xml" />
+        <option value="$PROJECT_DIR$/../cache-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../Config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../discovery-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../DynamicQueryDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../DynamicQueryDemo/DynamicQueryDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../APIGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../movie-catalog-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../UserProxySvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../movie-info-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../rating-data-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-security-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../learning-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/../validation-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../customannotation/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-mongo-atlas/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-kafka/base-domains/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-kafka/email-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-kafka/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-kafka/stock-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../multi-datasource-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../MySqlCRUDTest/pom.xml" />
+        <option value="$PROJECT_DIR$/../multithread-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../swaggerdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../batch-processing-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../chatGPT-BOT/pom.xml" />
+        <option value="$PROJECT_DIR$/../procedure-demo/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../DynamicQueryDemo/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/../practice/out" />
+  </component>
+</project>

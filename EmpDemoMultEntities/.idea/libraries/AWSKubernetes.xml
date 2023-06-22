@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="AWSKubernetes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Udemy/AWSKubernetes/kubernetes-fundamentals-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy/AWSKubernetes/docker-fundamentals-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy/AWSKubernetes/aws-eks-kubernetes-masterclass-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

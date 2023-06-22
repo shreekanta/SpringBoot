@@ -1,0 +1,40 @@
+08:50:14.698 [background-preinit] INFO  o.h.validator.internal.util.Version traceId:  spanId:  - HV000001: Hibernate Validator 8.0.0.Final
+08:50:14.755 [restartedMain] INFO  c.example.PIIDemo.PiiDemoApplication traceId:  spanId:  - Starting PiiDemoApplication using Java 20.0.1 with PID 29604 (D:\Java\PIIDemo\target\classes started by tupur in D:\Java\shrik-root)
+08:50:14.755 [restartedMain] INFO  c.example.PIIDemo.PiiDemoApplication traceId:  spanId:  - No active profile set, falling back to 1 default profile: "default"
+08:50:14.820 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor traceId:  spanId:  - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08:50:14.820 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor traceId:  spanId:  - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08:50:17.235 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer traceId:  spanId:  - Tomcat initialized with port(s): 8080 (http)
+08:50:17.252 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol traceId:  spanId:  - Initializing ProtocolHandler ["http-nio-8080"]
+08:50:17.253 [restartedMain] INFO  o.a.catalina.core.StandardService traceId:  spanId:  - Starting service [Tomcat]
+08:50:17.254 [restartedMain] INFO  o.a.catalina.core.StandardEngine traceId:  spanId:  - Starting Servlet engine: [Apache Tomcat/10.1.8]
+08:50:17.338 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] traceId:  spanId:  - Initializing Spring embedded WebApplicationContext
+08:50:17.338 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext traceId:  spanId:  - Root WebApplicationContext: initialization completed in 2517 ms
+08:50:19.176 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer traceId:  spanId:  - LiveReload server is running on port 35729
+08:50:19.184 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver traceId:  spanId:  - Exposing 1 endpoint(s) beneath base path '/actuator'
+08:50:19.280 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol traceId:  spanId:  - Starting ProtocolHandler ["http-nio-8080"]
+08:50:19.315 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer traceId:  spanId:  - Tomcat started on port(s): 8080 (http) with context path ''
+08:50:19.349 [restartedMain] INFO  c.example.PIIDemo.PiiDemoApplication traceId:  spanId:  - Started PiiDemoApplication in 6.259 seconds (process running for 7.374)
+08:50:19.811 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] traceId:  spanId:  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08:50:19.812 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet traceId:  spanId:  - Initializing Servlet 'dispatcherServlet'
+08:50:19.818 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet traceId:  spanId:  - Completed initialization in 5 ms
+08:50:19.936 [http-nio-8080-exec-2] INFO  c.e.P.controller.UserController traceId:  spanId:  - [User(id=3235, name=john, ssn=6474729899, phoneNumber=1234567890, age=30, username=johncn, password=john123, accountDetails=[AccountDetails(accountHolderName=JOHN CURRRAN, accountNumber=365027332671, accountType=SAVING), AccountDetails(accountHolderName=JOHN CURRRAN, accountNumber=365027332671, accountType=CURRENT)]), User(id=9546, name=Smith, ssn=4623642828, phoneNumber=5439854674, age=41, username=smithkn, password=smith619, accountDetails=[AccountDetails(accountHolderName=Smith ken, accountNumber=8272389200, accountType=SAVING)])]
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - HV000001: Hibernate Validator 8.0.0.Final
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Starting PiiDemoApplication using Java 20.0.1 with PID 16984 (D:\Java\PIIDemo\target\classes started by tupur in D:\Java\shrik-root)
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - No active profile set, falling back to 1 default profile: "default"
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Tomcat initialized with port(s): 8080 (http)
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Initializing ProtocolHandler ["http-nio-8080"]
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Starting service [Tomcat]
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Starting Servlet engine: [Apache Tomcat/10.1.8]
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Initializing Spring embedded WebApplicationContext
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Root WebApplicationContext: initialization completed in 2246 ms
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - LiveReload server is running on port 35729
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Exposing 1 endpoint(s) beneath base path '/actuator'
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Starting ProtocolHandler ["http-nio-8080"]
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Tomcat started on port(s): 8080 (http) with context path ''
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Started PiiDemoApplication in 5.191 seconds (process running for 7.248)
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Initializing Servlet 'dispatcherServlet'
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - Completed initialization in 4 ms
+ INFO [spring.zipkin.service.name:_IS_UNDEFINED,,,] - [User(id=3235, name=john, ssn=6474729899, phoneNumber=1234567890, age=30, username=johncn, password=john123, accountDetails=[AccountDetails(accountHolderName=JOHN CURRRAN, accountNumber=365027332671, accountType=SAVING), AccountDetails(accountHolderName=JOHN CURRRAN, accountNumber=365027332671, accountType=CURRENT)]), User(id=9546, name=Smith, ssn=4623642828, phoneNumber=5439854674, age=41, username=smithkn, password=smith619, accountDetails=[AccountDetails(accountHolderName=Smith ken, accountNumber=8272389200, accountType=SAVING)])]

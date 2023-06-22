@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="customannotation" />
+        <module name="user-record-creation" />
+        <module name="demo" />
+        <module name="learning-spring" />
+        <module name="UserProxySvc" />
+        <module name="email-service" />
+        <module name="DynamicQueryDemo" />
+        <module name="APIGateway" />
+        <module name="rating-data-service" />
+        <module name="spring-mongo-atlas" />
+        <module name="chatGPT-BOT" />
+        <module name="procedure-demo" />
+        <module name="batch-processing-demo" />
+        <module name="stock-service" />
+        <module name="movie-info-service" />
+        <module name="spring-security-test" />
+        <module name="multi-datasource-demo" />
+        <module name="multithread-demo" />
+        <module name="Config-server" />
+        <module name="base-domains" />
+        <module name="EmpDemoMultEntities" />
+        <module name="validation-test" />
+        <module name="swaggerdemo" />
+        <module name="order-service" />
+        <module name="MySqlCRUDTest" />
+        <module name="movie-catalog-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cache-server" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="APIGateway" options="-parameters" />
+      <module name="Config-server" options="-parameters" />
+      <module name="DynamicQueryDemo" options="-parameters" />
+      <module name="EmpDemoMultEntities" options="-parameters" />
+      <module name="MySqlCRUDTest" options="-parameters" />
+      <module name="UserProxySvc" options="-parameters" />
+      <module name="base-domains" options="-parameters" />
+      <module name="batch-processing-demo" options="-parameters" />
+      <module name="cache-server" options="-parameters" />
+      <module name="chatGPT-BOT" options="-parameters" />
+      <module name="customannotation" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="email-service" options="-parameters" />
+      <module name="learning-spring" options="-parameters" />
+      <module name="movie-catalog-service" options="-parameters" />
+      <module name="movie-info-service" options="-parameters" />
+      <module name="multi-datasource-demo" options="-parameters" />
+      <module name="multithread-demo" options="-parameters" />
+      <module name="order-service" options="-parameters" />
+      <module name="procedure-demo" options="-parameters" />
+      <module name="rating-data-service" options="-parameters" />
+      <module name="spring-mongo-atlas" options="-parameters" />
+      <module name="spring-security-test" options="-parameters" />
+      <module name="stock-service" options="-parameters" />
+      <module name="swaggerdemo" options="-parameters" />
+      <module name="user-record-creation" options="-parameters" />
+      <module name="validation-test" options="-parameters" />
+    </option>
+  </component>
+</project>
