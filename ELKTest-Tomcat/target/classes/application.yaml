@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: ELKTest
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  datasource:
+    url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/db_example
+    username: shrik
+    password: welcome1
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  main:
+    allow-circular-references: true
+
+
+server:
+  port: 9898
+logging:
+  file:
+    name: D:/Software/ELK/SpringLogs/elk-stack.log
+  level:
+    root: info

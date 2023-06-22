@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maven-wrapper8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Udemy/AWSKubernetes/aws-eks-kubernetes-masterclass-master/others/code/springboot-kubernetes/01-helloworld-service/.mvn/wrapper/maven-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

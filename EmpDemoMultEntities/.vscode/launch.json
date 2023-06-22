@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EmpDemoMultEntitiesApplication<EmpDemoMultEntities>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.EmpDemoMultEntities.EmpDemoMultEntitiesApplication",
+            "projectName": "EmpDemoMultEntities",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

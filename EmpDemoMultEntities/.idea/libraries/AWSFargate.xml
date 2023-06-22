@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AWSFargate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Udemy/AWSFargate/docker-fundamentals-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Udemy/AWSFargate/aws-fargate-ecs-masterclass-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
